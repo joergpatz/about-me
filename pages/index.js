@@ -8,7 +8,7 @@ export default (props) => (
         <article>
           <p className="p-note">
             I'm <strong className="p-name">Joerg Patzer</strong>,{" "}
-            <span className="p-job-title"><em>Senior Software Developer</em></span> working for{" "}
+            <span className="p-job-title"><em>Senior Software Developer</em></span> working at{" "}
             <strong className="p-org h-card">bitgrip GmbH</strong>{" "}
             in Berlin, Germany.
           </p>
