@@ -9,7 +9,7 @@ export default (props) => (
       <title>Joerg Patzer - Senior Software Developer</title>
       <meta httpEquiv="Content-Type" content="text/html; charset=utf-8" />
       <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-      <meta name="description" content="Senior Software Developer at bitgrip GmbH" />
+      <meta name="description" content="Senior Software Developer at VMRay GmbH" />
       <meta name="language" content="en" />
       <meta name="author" content="Joerg Patzer" />
       <meta name="subject" content="Personal website" />
@@ -38,7 +38,7 @@ export default (props) => (
               familyName: "Patzer",
               jobTitle: "Senior Software Developer",
               worksFor: {
-                name: "bitgrip GmbH"
+                name: "VMRay GmbH"
               }
             })
           )

@@ -9,7 +9,7 @@ export default (props) => (
           <p className="p-note">
             I'm <strong className="p-name">Joerg Patzer</strong>,{" "}
             <span className="p-job-title"><em>Senior Software Developer</em></span> working at{" "}
-            <strong className="p-org h-card">bitgrip GmbH</strong>{" "}
+            <strong className="p-org h-card">VMRay GmbH</strong>{" "}
             in Berlin, Germany.
           </p>
         </article>
