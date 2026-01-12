@@ -8,7 +8,7 @@
     "build": "next build",
     "export": "next export",
     "postexport": "cp temp/keybase.txt out",
-    "deploy": "npm run build && npm run export && git add out/ && git commit -m \"deploy to remote ghpages\" && git subtree push --prefix out --squash git@github.com:joergpatz/joergpatz.github.io.git master",
+    "deploy": "npm run build && npm run export && git add out/ && git commit -m \"deploy to remote ghpages\" && git subtree push --prefix out git@github.com:joergpatz/joergpatz.github.io.git master",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

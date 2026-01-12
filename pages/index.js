@@ -17,11 +17,13 @@ export default (props) => (
 
       <section id="social">
         <ul>
+          /*
           <li>
             <a href="https://twitter.com/joergpatz" rel="me" title="Twitter" className="u-url">
               <Icon name="Twitter" />
             </a>
           </li>
+          */
           <li>
             <a href="https://www.linkedin.com/in/joergpatzer" rel="me" title="LinkedIn" className="u-url">
               <Icon name="LinkedIn" />
@@ -55,11 +57,6 @@ export default (props) => (
           <li>
             <a href="https://www.meetup.com/members/184183468" rel="me" title="Meetup" className="u-url">
               <Icon name="Meetup" />
-            </a>
-          </li>
-          <li>
-            <a href="https://keybase.io/joergpatz" rel="me" title="Keybase" className="u-url">
-              <Icon name="Keybase" />
             </a>
           </li>
           <li>
