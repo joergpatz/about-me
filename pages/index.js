@@ -17,13 +17,6 @@ export default (props) => (
 
       <section id="social">
         <ul>
-          /*
-          <li>
-            <a href="https://twitter.com/joergpatz" rel="me" title="Twitter" className="u-url">
-              <Icon name="Twitter" />
-            </a>
-          </li>
-          */
           <li>
             <a href="https://www.linkedin.com/in/joergpatzer" rel="me" title="LinkedIn" className="u-url">
               <Icon name="LinkedIn" />
